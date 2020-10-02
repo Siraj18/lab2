@@ -1,0 +1,10 @@
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\bin\Release\Lab2SetProgClient.exe.config
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\bin\Release\Lab2SetProgClient.exe
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\bin\Release\Lab2SetProgClient.pdb
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\obj\Release\Lab2SetProgClient.Form1.resources
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\obj\Release\Lab2SetProgClient.Properties.Resources.resources
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\obj\Release\Lab2SetProgClient.csproj.GenerateResource.cache
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\obj\Release\Lab2SetProgClient.csproj.CoreCompileInputs.cache
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\obj\Release\Lab2SetProgClient.exe
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\obj\Release\Lab2SetProgClient.pdb
+C:\Users\siraj\source\repos\Lab2SetProgClient\Lab2SetProgClient\obj\Release\Lab2SetProgClient.csprojAssemblyReference.cache
